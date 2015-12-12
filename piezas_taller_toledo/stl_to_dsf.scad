@@ -1,0 +1,1 @@
+ projection(cut=false) import("./test1.stl");
